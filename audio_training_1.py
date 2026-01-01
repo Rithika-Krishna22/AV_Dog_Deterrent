@@ -1,4 +1,4 @@
-#Trainig using ensemble methods
+#Trainig using ensemble method
 import os
 import numpy as np
 from sklearn.model_selection import train_test_split
